@@ -1,4 +1,4 @@
-/* .sidebarOption {
+.sidebarOption {
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -23,4 +23,4 @@
 
 .sidebarOption--active {
   color: var(--twitter-color);
-} */
+}
