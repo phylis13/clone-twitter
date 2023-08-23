@@ -18,7 +18,7 @@ function Widgets() {
       <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
 
-        <TwitterTweetEmbed tweetId={"858551177860055040"} />
+        <TwitterTweetEmbed tweetId={"1569636799919669249"} />
 
         <TwitterTimelineEmbed
           sourceType="profile"
@@ -28,8 +28,8 @@ function Widgets() {
         
 
         <TwitterShareButton
-          url={"https://www.facebook.com/williamsamoei?mibextid=ZbWKwL"}
-          options={{ text: "#reactjs is awesome", via: "elonmusk" }}
+          url={"https://twitter.com/WilliamsRuto"}
+          options={{ text: "#Bottom up Movement", via: "elonmusk" }}
         />
       </div>
     </div>
