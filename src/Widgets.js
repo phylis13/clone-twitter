@@ -28,7 +28,7 @@ function Widgets() {
         
 
         <TwitterShareButton
-          url={"https://facebook.com/cleverprogrammer"}
+          url={"https://www.facebook.com/williamsamoei?mibextid=ZbWKwL"}
           options={{ text: "#reactjs is awesome", via: "elonmusk" }}
         />
       </div>
