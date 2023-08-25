@@ -11,8 +11,8 @@ function TweetBox() {
     e.preventDefault();
 
     db.collection("posts").add({
-      displayName: "Elon musk",
-      username: "elon Musk",
+      displayName: "Elon Musk",
+      username: "elonmusk",
       verified: true,
       text: tweetMessage,
       image: tweetImage,
