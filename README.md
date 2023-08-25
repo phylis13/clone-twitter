@@ -51,6 +51,7 @@ Run the application on the browser
 npm start
 # Usage
 you can post a tweet and enter any image url 
+
 Home Feed:
 
     Once logged in, you'll see tweets from users you're following on your home feed.
