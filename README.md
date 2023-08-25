@@ -52,6 +52,8 @@ npm start
 # Usage
 you can post a tweet and enter any image url 
 
+
+
 Home Feed:
 
     Once logged in, you'll see tweets from users you're following on your home feed.
@@ -63,7 +65,7 @@ Post a Tweet:
 Explore Users:
 
     Use the search functionality to find and view other users' profiles.
-Authors
+# Authors
 phylis njeri
 
 # Licence
